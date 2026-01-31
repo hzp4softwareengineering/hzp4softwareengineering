@@ -145,7 +145,7 @@ I aim to contribute to **meaningful innovation**, ethical AI development, and im
 ## 📫 Contact & Professional Links
 
 - **Email**:  hzp.4aibotresearch@gmail.com
-- **Website**:  https://flashchinchilla.github.io/Htet_Zaw_Paing/
+- **Website**:  https://www.htetzawpaing.site/
 - **LinkedIn**:  https://www.linkedin.com/in/htet-zaw-paing-a768533a8
 - **GitHub**:  https://github.com/FlashChinchilla | https://github.com/hzp4softwareengineering
 - **Discord**:  https://discord.com/users/1110430133707341894
