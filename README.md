@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://media1.tenor.com/m/xY3J8BFmHkAAAAAd/developer-dev.gif " alt="" data-animated-image="" style="width:80px;"> Hi there! My name is **Htet Zaw Paing** <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" data-animated-image="" style="width: 80%;"><img src="https://media.tenor.com/lfDATg4Bhc0AAAAM/happy-cat.gif" alt="" data-animated-image="" style="width: 45px;"><img src="https://media.tenor.com/BkY_-f_8GV0AAAAm/palm-joypixels.webp" alt="" data-animated-image="" style="width: 50px;">
+## <img src="https://media1.tenor.com/m/xY3J8BFmHkAAAAAd/developer-dev.gif " alt="" data-animated-image="" style="width:80px;"> Hi there! My name is **Htet Zaw Paing** <img src="https://media.tenor.com/7UHqqhLP8tgAAAAm/stk.webp" alt="" data-animated-image="" style="width: 60px;">
 Software Engineer | AI Researcher & Trainer
 
 --- 
