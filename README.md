@@ -8,14 +8,14 @@
 
 ---
 
-## <img src="https://media1.tenor.com/m/xY3J8BFmHkAAAAAd/developer-dev.gif " alt="" data-animated-image="" style="width:80px;"> Hi there! My name is **Htet Zaw Paing** <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" data-animated-image="" style="width: 80%;">
+## <img src="https://media1.tenor.com/m/xY3J8BFmHkAAAAAd/developer-dev.gif " alt="" data-animated-image="" style="width:80px;"> Hi there! My name is **Htet Zaw Paing** <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" data-animated-image="" style="width: 80%;"><img src="https://media.tenor.com/lfDATg4Bhc0AAAAM/happy-cat.gif" alt="" data-animated-image="" style="width: 45px;"><img src="https://media.tenor.com/BkY_-f_8GV0AAAAm/palm-joypixels.webp" alt="" data-animated-image="" style="width: 50px;">
 Software Engineer | AI Researcher & Trainer
 
----
+--- 
 
 ## 👤 Professional Profile
 
-**Htet Zaw Paing – Software Engineer · AI Researcher & Trainer**  
+**Htet Zaw Paing – Software Engineer · AI Researcher & Trainer**   
 
 Based in **Yangon, Myanmar**, I am a forward-looking IT professional with strong foundations in **software engineering, artificial intelligence, and full-stack web development**. I hold a **Bachelor of Science (Hons) in Computing and Information Technology from Edinburgh Napier University, UK**, and plan to pursue a **Master’s degree at Edinburgh Napier University, UK**.  
 
@@ -29,12 +29,12 @@ These are selected focus areas, with many more skills and projects developed.
 
 ## 💼 Core Expertise
 
-- **Full-Stack Web Development & Design**  
-- **Software Development & Engineering**  
-- **Artificial Intelligence (AI) Research & Training**  
-- **System Analysis & Problem Solving**  
-- **Creative Thinking & Innovation**  
-- **Project-Based Learning & Technical Documentation**
+- **Full-Stack Web Development & Design - 8/10**  
+- **Software Development & Engineering - 6.5/10**  
+- **Artificial Intelligence (AI) Research & Training - 6.5/10**  
+- **System Analysis & Problem Solving - 8/10**
+- **Creative Thinking & Innovation - 10/10**  
+- **Project-Based Learning & Technical Documentation - 9.5/10**
 
 ---
 
