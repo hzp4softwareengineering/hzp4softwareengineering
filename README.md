@@ -70,21 +70,6 @@ I am proficient in a comprehensive range of technologies essential for full-stac
 
 ---
 
-## 🚀 Innovative Deployments
-
-### Secora – Cybersecurity Marketplace
-A scalable web platform designed for the cybersecurity sector. Secora enables the distribution of specialised hardware and software while providing managed services, including penetration testing and 24/7 security monitoring.
-
-### Sensori – Emotion Analysis System
-An AI-driven system leveraging deep learning for real-time facial emotion recognition. Sensori analyses complex emotional states to autonomously deliver personalised auditory experiences.
-
-### Sira – Voice Command Technology
-An AI-powered voice assistant designed to enhance user navigation across e-commerce and web platforms. Sira allows users to reach desired pages and perform actions effortlessly, enabling seamless, click-free interaction through natural language commands.
-
-**and many more . . .**
-
----
-
 ## 📫 Contact & Professional Links
 
 - **Email**:  hzp.4aibotresearch@gmail.com
