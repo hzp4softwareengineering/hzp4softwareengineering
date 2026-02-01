@@ -9,7 +9,7 @@
 ---
 
 ## <img src="https://media1.tenor.com/m/xY3J8BFmHkAAAAAd/developer-dev.gif " alt="" data-animated-image="" style="width:80px;"> Hi there! My name is **Htet Zaw Paing** <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" data-animated-image="" style="width: 80%;">
-Software Engineer | Hybrid Developer | AI Researcher & Trainer
+Software Engineer | AI Researcher & Trainer
 
 ---
 
@@ -24,36 +24,6 @@ My work combines **technical precision, research-driven problem solving, and use
 I am particularly passionate about **AI research, cybersecurity solutions, intelligent systems, and scalable software architectures**, with ongoing dedication to **advancing as both a technologist and a technology leader**.  
 
 These are selected focus areas, with many more skills and projects developed.
-
----
-
-## 🎓 Education
-
-#### Current Studies
-- **Bachelor of Science (Hons) in Computing and Information Technology** (2025 – 2026)  
-  *Edinburgh Napier University - UK*
-
-#### Completed Studies
-- **Higher National Diploma (HND) in Computing and Information Technology** (2024 – 2025)  
-  *Info Myanmar University*
-  
-- **Higher National Certificate (HNC) in Computing and Information Technology** (2023 – 2024)  
-  *Info Myanmar University*
-  
-- **Pre-University Certificate in Computing and Information Technology** (2023)  
-  *Info Myanmar University*
-
-- **Independent IT Studies** (2022 – 2023)  
-  *Self-Directed Learning*
-
-#### Future Education
-- **Master’s Degree in Computing and Information Technology** (Est. 2027 – 2029)  
-  *Edinburgh Napier University - UK*  
-  *Concentration: Full-Stack Web Development, Artificial Intelligence, and Cybersecurity*
-
-- **Doctor of Philosophy (PhD) in Computing / AI Research** (Est. 2030 – 2035)  
-  *Future Plan*  
-  *Research Focus: Advanced AI Systems, Human-Computer Interaction, and Intelligent Automation*
 
 ---
 
@@ -72,18 +42,14 @@ These are selected focus areas, with many more skills and projects developed.
 
 I am proficient in a comprehensive range of technologies essential for full-stack web development, software engineering, AI integration, and web design:
 
-**Front-End:**  
-
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"></a>
+**Front-End:**  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"></a>
 <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"></a>
 <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS"></a>
 <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"></a>
 <a href="https://reactjs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"></a>
 <a href="https://nextjs.org/docs" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs"></a>
 
-**Programming Languages:**  
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"></a>
+**Programming Languages:**  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"></a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"></a>
 <a href="https://www.oracle.com/java/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"></a>
 <a href="https://nodejs.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"></a>
@@ -91,26 +57,16 @@ I am proficient in a comprehensive range of technologies essential for full-stac
 <a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"></a>
 <a href="https://www.php.net/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP"></a>
 
-**Databases:**  
+**Databases:**  <a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"></a>
 
-<a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"></a>
-
-**Version Control & Tools:** 
-
-<a href="https://git-scm.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"></a>
+**Version Control & Tools:**  <a href="https://git-scm.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code"></a>
 
-**CMS & Web Design:**  
-
-<a href="https://wordpress.com" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress"></a>
+**CMS & Web Design:**  <a href="https://wordpress.com" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress"></a>
 <a href="https://wix.com" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix"></a>
 <a href="https://framer.com" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer"></a>
 
-**Frameworks:**  
-
-<a href="https://laravel.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel"></a>
-
-
+**Frameworks:**  <a href="https://laravel.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel"></a>
 
 ---
 
@@ -129,19 +85,6 @@ An AI-powered voice assistant designed to enhance user navigation across e-comme
 
 ---
 
-## 🌍 Career Aspirations
-
-My long-term professional objective is to grow into a **hybrid technologist** — combining the roles of:
-
-- Software Engineer  
-- AI Researcher & Trainer  
-- Project Manager  
-- Technology Entrepreneur / CEO  
-
-I aim to contribute to **meaningful innovation**, ethical AI development, and impactful digital solutions.
-
----
-
 ## 📫 Contact & Professional Links
 
 - **Email**:  hzp.4aibotresearch@gmail.com
@@ -150,17 +93,6 @@ I aim to contribute to **meaningful innovation**, ethical AI development, and im
 - **GitHub**:  https://github.com/FlashChinchilla | https://github.com/hzp4softwareengineering
 - **Discord**:  https://discord.com/users/1110430133707341894
 
-
----
-
-## 🏆 Professional Values
-
-- Continuous learning & self-improvement
-- Clean, maintainable, and secure code
-- Ethical and responsible AI
-- Collaboration and knowledge sharing
-- Long-term impact over short-term results
-
 ---
 
 <p align="center">
@@ -168,6 +100,10 @@ I aim to contribute to **meaningful innovation**, ethical AI development, and im
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
          width="36" height="36" alt="GitHub" />
   </a>
+  <a href="https://www.htetzawpaing.site" rel="nofollow" style="margin: 0 20px;">
+  <img src="https://img.icons8.com/ios-filled/50/000000/domain.png"
+       width="36" height="36" alt="Website" />
+</a>
   <a href="https://discord.com/users/1110430133707341894" rel="nofollow" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
          width="36" height="36" alt="Discord" />
