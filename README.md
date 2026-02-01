@@ -15,7 +15,7 @@ Software Engineer | AI Researcher & Trainer
 
 ## 👤 Professional Profile
 
-**Htet Zaw Paing – Hybrid Developer · Software Engineer · AI Researcher & Trainer**  
+**Htet Zaw Paing – Software Engineer · AI Researcher & Trainer**  
 
 Based in **Yangon, Myanmar**, I am a forward-looking IT professional with strong foundations in **software engineering, artificial intelligence, and full-stack web development**. I hold a **Bachelor of Science (Hons) in Computing and Information Technology from Edinburgh Napier University, UK**, and plan to pursue a **Master’s degree at Edinburgh Napier University, UK**.  
 
