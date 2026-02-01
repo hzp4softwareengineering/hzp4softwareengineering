@@ -33,7 +33,7 @@ These are selected focus areas, with many more skills and projects developed.
 - **Software Development & Engineering - 6.5/10**  
 - **Artificial Intelligence (AI) Research & Training - 6.5/10**  
 - **System Analysis & Problem Solving - 8/10**
-- **Creative Thinking & Innovation - 10/10**  
+- **Creative Thinking & Innovation - ∞/10**  
 - **Project-Based Learning & Technical Documentation - 9.5/10**
 
 ---
