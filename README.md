@@ -72,7 +72,7 @@ I am proficient in a comprehensive range of technologies essential for full-stac
 
 ## 📫 Contact & Professional Links
 
-- **Email**:  hzp.4aibotresearch@gmail.com
+- **Email**:  contact@htetzawpaing.site
 - **Website**:  https://www.htetzawpaing.site/
 - **LinkedIn**:  https://www.linkedin.com/in/htet-zaw-paing-a768533a8
 - **GitHub**:  https://github.com/FlashChinchilla | https://github.com/hzp4softwareengineering
