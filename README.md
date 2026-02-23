@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FlashChinchilla&label=Profile%20Views&color=0AAFFF&style=flat-square" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=htet-zaw-paing&label=Profile%20Views&color=0AAFFF&style=flat-square" alt="visitor counter" />
 </p>
 
 ---
@@ -75,13 +75,13 @@ I am proficient in a comprehensive range of technologies essential for full-stac
 - **Email**:  contact@htetzawpaing.site
 - **Website**:  https://www.htetzawpaing.site/
 - **LinkedIn**:  https://www.linkedin.com/in/htet-zaw-paing-a768533a8
-- **GitHub**:  https://github.com/FlashChinchilla | https://github.com/hzp4softwareengineering
+- **GitHub**:  https://github.com/htet-zaw-paing | https://github.com/hzp4softwareengineering
 - **Discord**:  https://discord.com/users/1110430133707341894
 
 ---
 
 <p align="center">
-  <a href="https://github.com/FlashChinchilla" rel="nofollow" style="margin: 0 20px;">
+  <a href="https://github.com/htet-zaw-paing" rel="nofollow" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
          width="36" height="36" alt="GitHub" />
   </a>
