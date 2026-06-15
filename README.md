@@ -71,7 +71,8 @@ I am proficient in a comprehensive range of technologies essential for full-stac
 ## 📫 Contact & Professional Links
 
 - **Email**:  contact@htetzawpaing.site
-- **Website**:  https://www.htetzawpaing.site/
+- **Website**:  https://htetzawpaing.site/
+- **Company**: https://myancode.com/
 - **LinkedIn**:  https://www.linkedin.com/in/htet-zaw-paing/
 - **GitHub**:  https://github.com/htet-zaw-paing/ | https://github.com/hzp4softwareengineering/
 - **Discord**:  https://discord.com/users/1110430133707341894/
@@ -83,7 +84,7 @@ I am proficient in a comprehensive range of technologies essential for full-stac
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
          width="36" height="36" alt="GitHub" />
   </a>
-  <a href="https://www.htetzawpaing.site/" rel="nofollow" style="margin: 0 20px;">
+  <a href="https://htetzawpaing.site/" rel="nofollow" style="margin: 0 20px;">
   <img src="https://img.icons8.com/ios-filled/50/000000/domain.png"
        width="36" height="36" alt="Website" />
 </a>
