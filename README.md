@@ -1,23 +1,21 @@
+
+## <img src="https://media1.tenor.com/m/xY3J8BFmHkAAAAAd/developer-dev.gif " alt="" data-animated-image="" style="width:80px;"> Hi there! My name is **Htet Zaw Paing** <img src="https://media.tenor.com/7UHqqhLP8tgAAAAm/stk.webp" alt="" data-animated-image="" style="width: 60px;">
+Software Engineer & Web Developer
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=800&color=05577F&center=true&vCenter=true&width=750&lines=Htet+Zaw+Paing;Hybrid+Developer+%7C+Software+Engineer;AI+Researcher+%26+Trainer;Future+Tech+Leader+%7C+Entrepreneur" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=800&color=05577F&center=true&vCenter=true&width=750&lines=Htet+Zaw+Paing;Software+Engineer+%26+Web+Developer;Founder+%26+CEO+of+MyanCode;Web+%26+Software+Solutions" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=htet-zaw-paing&label=Profile%20Views&color=0AAFFF&style=flat-square" alt="visitor counter" />
 </p>
 
----
-
-## <img src="https://media1.tenor.com/m/xY3J8BFmHkAAAAAd/developer-dev.gif " alt="" data-animated-image="" style="width:80px;"> Hi there! My name is **Htet Zaw Paing** <img src="https://media.tenor.com/7UHqqhLP8tgAAAAm/stk.webp" alt="" data-animated-image="" style="width: 60px;">
-Software Engineer | AI Researcher & Trainer
-
 --- 
 
 ## 👤 Professional Profile
 
-**Htet Zaw Paing – Software Engineer · AI Researcher & Trainer**   
+**Htet Zaw Paing – Software Engineer & Web Developer**   
 
-Based in **Yangon, Myanmar**, I am a forward-looking IT professional with strong foundations in **software engineering, artificial intelligence, and full-stack web development**. I hold a **Bachelor of Science (Hons) in Computing and Information Technology from Edinburgh Napier University, UK**, and plan to pursue a **Master’s degree at Edinburgh Napier University, UK**.  
 
 My work combines **technical precision, research-driven problem solving, and user-centred design**, aiming to **lead innovative technology initiatives** and deliver **impactful digital solutions**.  
 
@@ -31,7 +29,7 @@ These are selected focus areas, with many more skills and projects developed.
 
 - **Full-Stack Web Development & Design - 8/10**  
 - **Software Development & Engineering - 6.5/10**  
-- **Artificial Intelligence (AI) Research & Training - 6.5/10**  
+- **Artificial Intelligence (AI) Research & Training - 7.5/10**  
 - **System Analysis & Problem Solving - 8/10**
 - **Creative Thinking & Innovation - ∞/10**  
 - **Project-Based Learning & Technical Documentation - 9.5/10**
@@ -74,26 +72,26 @@ I am proficient in a comprehensive range of technologies essential for full-stac
 
 - **Email**:  contact@htetzawpaing.site
 - **Website**:  https://www.htetzawpaing.site/
-- **LinkedIn**:  https://www.linkedin.com/in/htet-zaw-paing-a768533a8
-- **GitHub**:  https://github.com/htet-zaw-paing | https://github.com/hzp4softwareengineering
-- **Discord**:  https://discord.com/users/1110430133707341894
+- **LinkedIn**:  https://www.linkedin.com/in/htet-zaw-paing/
+- **GitHub**:  https://github.com/htet-zaw-paing/ | https://github.com/hzp4softwareengineering/
+- **Discord**:  https://discord.com/users/1110430133707341894/
 
 ---
 
 <p align="center">
-  <a href="https://github.com/htet-zaw-paing" rel="nofollow" style="margin: 0 20px;">
+  <a href="https://github.com/htet-zaw-paing/" rel="nofollow" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
          width="36" height="36" alt="GitHub" />
   </a>
-  <a href="https://www.htetzawpaing.site" rel="nofollow" style="margin: 0 20px;">
+  <a href="https://www.htetzawpaing.site/" rel="nofollow" style="margin: 0 20px;">
   <img src="https://img.icons8.com/ios-filled/50/000000/domain.png"
        width="36" height="36" alt="Website" />
 </a>
-  <a href="https://discord.com/users/1110430133707341894" rel="nofollow" style="margin: 0 20px;">
+  <a href="https://discord.com/users/1110430133707341894/" rel="nofollow" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
          width="36" height="36" alt="Discord" />
   </a>
-  <a href="https://www.linkedin.com/in/htet-zaw-paing-a768533a8" rel="nofollow" style="margin: 0 20px;">
+  <a href="https://www.linkedin.com/in/htet-zaw-paing/" rel="nofollow" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
          width="36" height="36" alt="LinkedIn" />
   </a>
@@ -104,5 +102,5 @@ I am proficient in a comprehensive range of technologies essential for full-stac
 </p>
 
 <p align="center" style="font-size: 11px; color: #666;">
-© 2026 <strong>Htet Zaw Paing</strong>. All Rights Reserved. · Software Specialist
+© 2026 <strong>Htet Zaw Paing</strong>. All Rights Reserved.
 </p>
